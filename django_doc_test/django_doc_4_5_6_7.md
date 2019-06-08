@@ -3,9 +3,40 @@
 
 [中文 04](http://www.liujiangblog.com/course/django/90)
 
+[tutorial05](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial05/)
 
+[中文 05](http://www.liujiangblog.com/course/django/91)
 
+[tutorial06](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial06/)
 
+[中文 06](http://www.liujiangblog.com/course/django/92)
+
+[tutorial07](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial07/)
+
+[中文 07](http://www.liujiangblog.com/course/django/93)
+
+- [tutorial04 表單和類視圖](#tutorial04-表單和類視圖)
+    - [表單form](#表單form)
+        - [使用通用視圖](#使用通用視圖)
+        - [URLconf](#urlconf)
+        - [修改視圖](#修改視圖)
+- [tutorial05 測試](#tutorial05-測試)
+    - [遇見BUG](#遇見bug)
+    - [創建一個測試來暴露這個bug](#創建一個測試來暴露這個bug)
+    - [修復bug](#修復bug)
+    - [更加全面的測試](#更加全面的測試)
+- [tutorial06 靜態文件](#tutorial06-靜態文件)
+- [tutorial07 自定義admin](#tutorial07-自定義admin)
+    - [自定義後台表單](#自定義後台表單)
+    - [添加關聯對象](#添加關聯對象)
+    - [定制實例的列表頁面](#定制實例的列表頁面)
+        - [list_display](#list_display)
+        - [list_filter](#list_filter)
+        - [search_fields](#search_fields)
+    - [定制admin整體界面](#定制admin整體界面)
+        - [模板的組織方式](#模板的組織方式)
+        - [修改標題](#修改標題)
+    - [定制admin首頁](#定制admin首頁)
 
 
 # tutorial04 表單和類視圖
